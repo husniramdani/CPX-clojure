@@ -1,0 +1,23 @@
+[
+  "^ ",
+  "~:classpath",
+  ["~#set", []],
+  "~:project-hash",
+  "",
+  "~:project-root",
+  "C:\\spindyzel\\CPX-clojure",
+  "~:kondo-config-hash",
+  "d6989e4482b438c1420a845a9491b78043f8977f4f0bccd6010dc79930859292",
+  "~:dependency-scheme",
+  "jar",
+  "~:analysis",
+  null,
+  "~:analysis-checksums",
+  ["^ "],
+  "~:project-analysis-type",
+  "~:project-and-full-dependencies",
+  "~:version",
+  11,
+  "~:stubs-generation-namespaces",
+  ["^1", []]
+]
